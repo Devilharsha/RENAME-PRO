@@ -8,7 +8,7 @@ OWNER = int(os.environ.get("OWNER", ""))
 BOT_USERNAME = os.environ.get('BOT_USERNAME', "")
 
 FORCE_SUBS = os.environ.get("FORCE_SUBS", "MXTOONS")
-LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002009339918")
+LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002009339918"))
 
 DB_URL = os.environ.get("DB_URL", "")
 DB_NAME = os.environ.get("DB_NAME", "renamebot-premium")
